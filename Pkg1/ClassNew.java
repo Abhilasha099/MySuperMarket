@@ -12,6 +12,7 @@ class A
    void display() 
     { 
         System.out.println("GeeksforGeeks"); 
+        System.out.println("Changes today"); 
     } 
 } 
   

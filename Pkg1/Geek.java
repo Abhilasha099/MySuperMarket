@@ -17,6 +17,7 @@ interface inf
 	 public void deposit()
 	 {
 		 System.out.println("Hi i am in Geek class");
+		 System.out.println("Something new");
 	 }
 	 
 	 public static void main(String args[])
